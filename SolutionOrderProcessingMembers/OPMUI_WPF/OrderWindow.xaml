@@ -1,0 +1,69 @@
+﻿<Window x:Class="OPMUI_WPF.Window4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OPMUI_WPF"
+        mc:Ignorable="d"
+        Title="Window" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+    <ColumnDefinition Width="auto"></ColumnDefinition>
+    <ColumnDefinition Width="*"></ColumnDefinition>
+</Grid.ColumnDefinitions>
+<Grid.RowDefinitions>
+    <RowDefinition Height="auto"></RowDefinition>
+    <RowDefinition Height="auto"></RowDefinition>
+    <RowDefinition Height="auto"></RowDefinition>
+    <RowDefinition Height="*"></RowDefinition>
+    <RowDefinition Height="auto"></RowDefinition>
+</Grid.RowDefinitions>
+<Label Grid.Row="0" Grid.Column="0" Content="Leden" Margin="5"></Label>
+<Label Grid.Row="1" Grid.Column="0" Content="Events" Margin="5"></Label>
+
+<ComboBox Grid.Row="0" Grid.Column="1" Name="ComboboxLeden" Margin="5" ItemsSource="{Binding Leden}" SelectionChanged="ComboboxLeden_SelectionChanged" SelectedItem="{Binding GeselecteerdLidId, Mode=TwoWay}">
+    <ComboBox.ItemTemplate>
+        <DataTemplate>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding Id}">
+                    <Run Text=" | "></Run>
+                </TextBlock>
+                <TextBlock Text="{Binding Naam}">
+                    <Run Text=" | "></Run>
+                </TextBlock>
+                <TextBlock Text="{Binding Email}">
+                    <Run Text=" | "></Run>
+                </TextBlock>
+                <TextBlock Text="{Binding Adres}">
+                    <Run Text=" | "></Run>
+                </TextBlock>
+                <TextBlock Text="{Binding Status}">
+                    <Run Text=" | "></Run>
+                </TextBlock>
+            </StackPanel>                
+        </DataTemplate>
+    </ComboBox.ItemTemplate>
+</ComboBox>
+<ComboBox Grid.Row="1" Grid.Column="1" Name="ComboboxEvents" Margin="5" ItemsSource="{Binding Events}" SelectionChanged="ComboboxEvents_SelectionChanged" SelectedItem="{Binding GeselecteerdEventId, Mode=TwoWay}">
+    <ComboBox.ItemTemplate>
+        <DataTemplate>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding Naam}">
+                    <Run Text=" | "></Run>
+                </TextBlock>
+            </StackPanel>
+        </DataTemplate>
+    </ComboBox.ItemTemplate>
+</ComboBox>
+       
+<TextBlock Grid.Row="2" Grid.Column="0" Text="Kostprijs" Margin="5"></TextBlock>
+<TextBlock Grid.Row="2" Grid.Column="1" Name="TextBlockKostprijs"></TextBlock>
+<TextBlock Grid.Row="3" Grid.Column="0" Text="Services" Margin="5"></TextBlock>
+<ListBox Grid.Row="3" Grid.Column="1" Name="ListBoxServices" Margin="5"></ListBox>
+    <StackPanel Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" >
+    <Button Name="ButtonSave" Content="Save" Click="ButtonSave_Click" Margin="5"></Button>
+    <Button Name="ButtonAddLid" Content="Add Lid" Click="ButtonAddLid_Click" Margin="5"></Button>
+    <Button Name="Cancel" Content="Cancel" Click="ButtonCancel_Click" Margin="5"></Button>
+</StackPanel>
+    </Grid>
+</Window>

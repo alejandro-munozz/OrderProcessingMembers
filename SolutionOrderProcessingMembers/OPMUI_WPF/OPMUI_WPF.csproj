@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Window1.xaml.cs" />
+    <Compile Remove="Window2.xaml.cs" />
+    <Compile Remove="Window3.xaml.cs" />
+    <Compile Remove="Window4.xaml.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="NewFile1.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Remove="BestellingWindow.xaml" />
+    <Page Remove="Window.xaml" />
+    <Page Remove="Window1.xaml" />
+    <Page Remove="Window2.xaml" />
+    <Page Remove="Window3.xaml" />
+    <Page Remove="Window4.xaml" />
+    <Page Remove="WindowMembers.xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OPMBL\OPMBL.csproj" />
+  </ItemGroup>
+
+</Project>

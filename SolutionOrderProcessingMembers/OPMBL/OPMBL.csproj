@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Interfaces\IStatus.cs" />
+    <Compile Remove="Interfaces\IStatusOrder.cs" />
+    <Compile Remove="Managers\OPMManager.cs" />
+    <Compile Remove="Model\Class1.cs" />
+    <Compile Remove="Model\Deliveries\Class1.cs" />
+    <Compile Remove="Model\Deliveries\Class2.cs" />
+    <Compile Remove="Model\Services\Class1.cs" />
+    <Compile Remove="Model\Services\Class2.cs" />
+    <Compile Remove="Model\Services\Class3.cs" />
+    <Compile Remove="Model\Services\Class4.cs" />
+    <Compile Remove="Model\Services\DeliveryMessage.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Managers\EventManager" />
+    <None Remove="Managers\NewFile1.txt" />
+    <None Remove="Model\Deliveries\StandardDelivery" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Exceptions\" />
+  </ItemGroup>
+
+</Project>
