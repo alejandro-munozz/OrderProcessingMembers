@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\OPMBL.csproj",
+      "projectUniqueName": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\OPMBL.csproj",
       "projectName": "OPMBL",
-      "projectPath": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\OPMBL.csproj",
+      "projectPath": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\OPMBL.csproj",
       "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\obj\\",
+      "outputPath": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -15,7 +15,9 @@
         public Adres Adres {get; set;}
         public DateTime Date {get; set;}
         public  double Kostprijs { get; set;}
-        private List<Member> member = new();
-        public IReadOnlyList<Member> Members { get { return member; } }
+
+        //Deze staan momenteel in commentary om een werkende WPF te krijgen
+        //private List<Member> member = new();
+        //public IReadOnlyList<Member> Members { get { return member; } }
     }
 }

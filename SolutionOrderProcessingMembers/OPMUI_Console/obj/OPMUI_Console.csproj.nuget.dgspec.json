@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMUI_Console\\OPMUI_Console.csproj": {}
+    "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUI_Console\\OPMUI_Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\OPMBL.csproj": {
+    "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\OPMBL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\OPMBL.csproj",
+        "projectUniqueName": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\OPMBL.csproj",
         "projectName": "OPMBL",
-        "projectPath": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\OPMBL.csproj",
+        "projectPath": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\OPMBL.csproj",
         "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\obj\\",
+        "outputPath": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMUI_Console\\OPMUI_Console.csproj": {
+    "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUI_Console\\OPMUI_Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMUI_Console\\OPMUI_Console.csproj",
+        "projectUniqueName": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUI_Console\\OPMUI_Console.csproj",
         "projectName": "OPMUI_Console",
-        "projectPath": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMUI_Console\\OPMUI_Console.csproj",
+        "projectPath": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUI_Console\\OPMUI_Console.csproj",
         "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMUI_Console\\obj\\",
+        "outputPath": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUI_Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,8 +99,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\OPMBL.csproj": {
-                "projectPath": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\OPMBL.csproj"
+              "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\OPMBL.csproj": {
+                "projectPath": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\OPMBL.csproj"
               }
             }
           }

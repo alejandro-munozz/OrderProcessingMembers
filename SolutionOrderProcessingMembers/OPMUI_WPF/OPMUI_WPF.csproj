@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <Page Remove="BestellingWindow.xaml" />
+    <Page Remove="OrderWindow.xaml" />
     <Page Remove="Window.xaml" />
     <Page Remove="Window1.xaml" />
     <Page Remove="Window2.xaml" />
@@ -31,6 +32,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\OPMBL\OPMBL.csproj" />
+    <ProjectReference Include="..\OPMUtils\OPMUtils.csproj" />
   </ItemGroup>
 
 </Project>

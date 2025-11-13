@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OPMBL.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,8 +7,10 @@ using System.Threading.Tasks;
 
 namespace OPMBL.Interfaces
 {
-    interface IOPMRepositoryMemory
+    public interface IOPMRepositoryMemory
     {
-        public List<Member> 
+        Dictionary<string, Member> GetEmailToMember();
+        List<Event> GetEvents();
+        Dictionary<string, Member> GetNameToMember();
     }
 }

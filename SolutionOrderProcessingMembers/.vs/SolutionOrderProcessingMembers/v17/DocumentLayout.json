@@ -1,110 +1,137 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\",
+  "WorkspaceRootPath": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\solutionorderprocessingmembers\\opmbl\\model\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4280C97-E0A5-4D91-B11D-741943717237}|OPMUI_WPF\\OPMUI_WPF.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmui_wpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4280C97-E0A5-4D91-B11D-741943717237}|OPMUI_WPF\\OPMUI_WPF.csproj|solutionrelative:opmui_wpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\solutionorderprocessingmembers\\opmbl\\uml.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\uml.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+      "AbsoluteMoniker": "D:0:0:{F4280C97-E0A5-4D91-B11D-741943717237}|OPMUI_WPF\\OPMUI_WPF.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmui_wpf\\buyticketwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F4280C97-E0A5-4D91-B11D-741943717237}|OPMUI_WPF\\OPMUI_WPF.csproj|solutionrelative:opmui_wpf\\buyticketwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\solutionorderprocessingmembers\\opmbl\\model\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4280C97-E0A5-4D91-B11D-741943717237}|OPMUI_WPF\\OPMUI_WPF.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmui_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4280C97-E0A5-4D91-B11D-741943717237}|OPMUI_WPF\\OPMUI_WPF.csproj|solutionrelative:opmui_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\solutionorderprocessingmembers\\opmbl\\model\\orders\\bronzeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\orders\\bronzeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\solutionorderprocessingmembers\\opmbl\\interfaces\\ideliverytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\interfaces\\ideliverytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\solutionorderprocessingmembers\\opmbl\\model\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\solutionorderprocessingmembers\\opmbl\\managers\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\managers\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\solutionorderprocessingmembers\\opmbl\\managers\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\managers\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3A2E854-3C29-4CA6-A191-5A33643C4D12}|OPMDL\\OPMDL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\solutionorderprocessingmembers\\opmdl\\opmrepositorymemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3A2E854-3C29-4CA6-A191-5A33643C4D12}|OPMDL\\OPMDL.csproj|solutionrelative:opmdl\\opmrepositorymemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\solutionorderprocessingmembers\\opmbl\\model\\services\\welcomepacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\services\\welcomepacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\solutionorderprocessingmembers\\opmbl\\model\\services\\pickupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\services\\pickupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\solutionorderprocessingmembers\\opmbl\\model\\services\\nameplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\services\\nameplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\solutionorderprocessingmembers\\opmbl\\model\\orders\\silverorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\orders\\silverorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F0537C9-ACCF-4BE8-B068-F74A2CEDD0C2}|OPMUtils\\OPMUtils.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\solutionorderprocessingmembers\\opmutils\\opmrepositorymemoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F0537C9-ACCF-4BE8-B068-F74A2CEDD0C2}|OPMUtils\\OPMUtils.csproj|solutionrelative:opmutils\\opmrepositorymemoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\solutionorderprocessingmembers\\opmbl\\model\\orders\\goldorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\orders\\goldorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\solutionorderprocessingmembers\\opmbl\\model\\services\\dinner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\services\\dinner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\solutionorderprocessingmembers\\opmbl\\model\\deliveries\\expressdelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\deliveries\\expressdelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\solutionorderprocessingmembers\\opmbl\\model\\deliveries\\standarddelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\deliveries\\standarddelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\solutionorderprocessingmembers\\opmbl\\interfaces\\iopmrepositorymemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\interfaces\\iopmrepositorymemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\solutionorderprocessingmembers\\opmbl\\model\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3A2E854-3C29-4CA6-A191-5A33643C4D12}|OPMDL\\OPMDL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\solutionorderprocessingmembers\\opmdl\\opmdl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C3A2E854-3C29-4CA6-A191-5A33643C4D12}|OPMDL\\OPMDL.csproj|solutionrelative:opmdl\\opmdl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\solutionorderprocessingmembers\\opmbl\\model\\adres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\adres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4280C97-E0A5-4D91-B11D-741943717237}|OPMUI_WPF\\OPMUI_WPF.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\solutionorderprocessingmembers\\opmui_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{F4280C97-E0A5-4D91-B11D-741943717237}|OPMUI_WPF\\OPMUI_WPF.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmui_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F4280C97-E0A5-4D91-B11D-741943717237}|OPMUI_WPF\\OPMUI_WPF.csproj|solutionrelative:opmui_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3B83C9A-1D9C-445F-9393-A0A902DE1D18}|OPMUI_Console\\OPMUI_Console.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\solutionorderprocessingmembers\\opmui_console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4280C97-E0A5-4D91-B11D-741943717237}|OPMUI_WPF\\OPMUI_WPF.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmui_wpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F4280C97-E0A5-4D91-B11D-741943717237}|OPMUI_WPF\\OPMUI_WPF.csproj|solutionrelative:opmui_wpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A2E854-3C29-4CA6-A191-5A33643C4D12}|OPMDL\\OPMDL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmdl\\opmrepositorymemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A2E854-3C29-4CA6-A191-5A33643C4D12}|OPMDL\\OPMDL.csproj|solutionrelative:opmdl\\opmrepositorymemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmbl\\interfaces\\iopmrepositorymemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\interfaces\\iopmrepositorymemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmbl\\managers\\membermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\managers\\membermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0537C9-ACCF-4BE8-B068-F74A2CEDD0C2}|OPMUtils\\OPMUtils.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmutils\\opmrepositorymemoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0537C9-ACCF-4BE8-B068-F74A2CEDD0C2}|OPMUtils\\OPMUtils.csproj|solutionrelative:opmutils\\opmrepositorymemoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmbl\\managers\\eventsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\managers\\eventsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4280C97-E0A5-4D91-B11D-741943717237}|OPMUI_WPF\\OPMUI_WPF.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmui_wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F4280C97-E0A5-4D91-B11D-741943717237}|OPMUI_WPF\\OPMUI_WPF.csproj|solutionrelative:opmui_wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmbl\\model\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gebruiker\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4280C97-E0A5-4D91-B11D-741943717237}|OPMUI_WPF\\OPMUI_WPF.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmui_wpf\\eventwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4280C97-E0A5-4D91-B11D-741943717237}|OPMUI_WPF\\OPMUI_WPF.csproj|solutionrelative:opmui_wpf\\eventwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmbl\\interfaces\\ideliverytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\interfaces\\ideliverytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmbl\\model\\deliveries\\expressdelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\deliveries\\expressdelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmbl\\model\\deliveries\\standarddelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\deliveries\\standarddelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmbl\\model\\orders\\bronzeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\orders\\bronzeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmbl\\model\\orders\\goldorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\orders\\goldorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmbl\\model\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmbl\\model\\orders\\silverorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\orders\\silverorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmbl\\model\\services\\dinner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\services\\dinner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmbl\\model\\services\\nameplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\services\\nameplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmbl\\model\\services\\pickupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\services\\pickupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmbl\\model\\services\\welcomepacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\services\\welcomepacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmbl\\model\\adres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\adres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmbl\\model\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmbl\\model\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\model\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4280C97-E0A5-4D91-B11D-741943717237}|OPMUI_WPF\\OPMUI_WPF.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmui_wpf\\eventwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F4280C97-E0A5-4D91-B11D-741943717237}|OPMUI_WPF\\OPMUI_WPF.csproj|solutionrelative:opmui_wpf\\eventwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmbl\\uml.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\uml.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A2E854-3C29-4CA6-A191-5A33643C4D12}|OPMDL\\OPMDL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmdl\\opmdl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3A2E854-3C29-4CA6-A191-5A33643C4D12}|OPMDL\\OPMDL.csproj|solutionrelative:opmdl\\opmdl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B83C9A-1D9C-445F-9393-A0A902DE1D18}|OPMUI_Console\\OPMUI_Console.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmui_console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3B83C9A-1D9C-445F-9393-A0A902DE1D18}|OPMUI_Console\\OPMUI_Console.csproj|solutionrelative:opmui_console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\solutionorderprocessingmembers\\opmbl\\opmbl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\orderprocessingmembers\\solutionorderprocessingmembers\\opmbl\\opmbl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B367E959-D8DD-4341-9A66-C19735CB53CE}|OPMBL\\OPMBL.csproj|solutionrelative:opmbl\\opmbl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4280C97-E0A5-4D91-B11D-741943717237}|OPMUI_WPF\\OPMUI_WPF.csproj|c:\\users\\gebruiker\\documents\\grad_pgm\\pgm_gevorderd\\oefeningen\\solutionorderprocessingmembers\\opmui_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4280C97-E0A5-4D91-B11D-741943717237}|OPMUI_WPF\\OPMUI_WPF.csproj|solutionrelative:opmui_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,110 +141,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UML.cd",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\UML.cd",
-              "RelativeDocumentMoniker": "OPMBL\\UML.cd",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\UML.cd",
-              "RelativeToolTip": "OPMBL\\UML.cd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2025-11-12T11:26:47.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EventManager.cs",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Managers\\EventManager.cs",
-              "RelativeDocumentMoniker": "OPMBL\\Managers\\EventManager.cs",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Managers\\EventManager.cs",
-              "RelativeToolTip": "OPMBL\\Managers\\EventManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T11:16:41.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrderManager.cs",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Managers\\OrderManager.cs",
-              "RelativeDocumentMoniker": "OPMBL\\Managers\\OrderManager.cs",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Managers\\OrderManager.cs",
-              "RelativeToolTip": "OPMBL\\Managers\\OrderManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T11:16:39.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Orders\\Order.cs",
-              "RelativeDocumentMoniker": "OPMBL\\Model\\Orders\\Order.cs",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Orders\\Order.cs",
-              "RelativeToolTip": "OPMBL\\Model\\Orders\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "OverriddenGroupName": "OPMBL\\Model\\Orders",
-              "WhenOpened": "2025-11-12T08:38:44.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BronzeOrder.cs",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Orders\\BronzeOrder.cs",
-              "RelativeDocumentMoniker": "OPMBL\\Model\\Orders\\BronzeOrder.cs",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Orders\\BronzeOrder.cs",
-              "RelativeToolTip": "OPMBL\\Model\\Orders\\BronzeOrder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "OverriddenGroupName": "OPMBL\\Model\\Orders",
-              "WhenOpened": "2025-11-12T07:43:32.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Member.cs",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Member.cs",
-              "RelativeDocumentMoniker": "OPMBL\\Model\\Member.cs",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Member.cs",
-              "RelativeToolTip": "OPMBL\\Model\\Member.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "OverriddenGroupName": "OPMBL\\Model",
-              "WhenOpened": "2025-11-12T07:37:37.459Z",
+              "Title": "BuyTicketWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUI_WPF\\BuyTicketWindow.xaml",
+              "RelativeDocumentMoniker": "OPMUI_WPF\\BuyTicketWindow.xaml",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUI_WPF\\BuyTicketWindow.xaml",
+              "RelativeToolTip": "OPMUI_WPF\\BuyTicketWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-13T10:03:11.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Ticket.cs",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Ticket.cs",
-              "RelativeDocumentMoniker": "OPMBL\\Model\\Ticket.cs",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Ticket.cs",
-              "RelativeToolTip": "OPMBL\\Model\\Ticket.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUI_WPF\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OPMUI_WPF\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUI_WPF\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "OPMUI_WPF\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwCwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T09:29:39.478Z",
+              "WhenOpened": "2025-11-13T09:20:01.238Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUI_WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OPMUI_WPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUI_WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "OPMUI_WPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:17:30.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "OPMRepositoryMemory.cs",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMDL\\OPMRepositoryMemory.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMDL\\OPMRepositoryMemory.cs",
               "RelativeDocumentMoniker": "OPMDL\\OPMRepositoryMemory.cs",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMDL\\OPMRepositoryMemory.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMDL\\OPMRepositoryMemory.cs",
               "RelativeToolTip": "OPMDL\\OPMRepositoryMemory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "OPMDL",
               "WhenOpened": "2025-11-05T11:17:11.079Z",
@@ -225,193 +197,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "NamePlate.cs",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Services\\NamePlate.cs",
-              "RelativeDocumentMoniker": "OPMBL\\Model\\Services\\NamePlate.cs",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Services\\NamePlate.cs",
-              "RelativeToolTip": "OPMBL\\Model\\Services\\NamePlate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T09:22:28.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IDeliveryType.cs",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Interfaces\\IDeliveryType.cs",
-              "RelativeDocumentMoniker": "OPMBL\\Interfaces\\IDeliveryType.cs",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Interfaces\\IDeliveryType.cs",
-              "RelativeToolTip": "OPMBL\\Interfaces\\IDeliveryType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T09:14:14.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SilverOrder.cs",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Orders\\SilverOrder.cs",
-              "RelativeDocumentMoniker": "OPMBL\\Model\\Orders\\SilverOrder.cs",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Orders\\SilverOrder.cs",
-              "RelativeToolTip": "OPMBL\\Model\\Orders\\SilverOrder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T07:43:28.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PickupService.cs",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Services\\PickupService.cs",
-              "RelativeDocumentMoniker": "OPMBL\\Model\\Services\\PickupService.cs",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Services\\PickupService.cs",
-              "RelativeToolTip": "OPMBL\\Model\\Services\\PickupService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T10:06:05.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WelcomePacket.cs",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Services\\WelcomePacket.cs",
-              "RelativeDocumentMoniker": "OPMBL\\Model\\Services\\WelcomePacket.cs",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Services\\WelcomePacket.cs",
-              "RelativeToolTip": "OPMBL\\Model\\Services\\WelcomePacket.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T10:31:49.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "OPMRepositoryMemoryFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMUtils\\OPMRepositoryMemoryFactory.cs",
-              "RelativeDocumentMoniker": "OPMUtils\\OPMRepositoryMemoryFactory.cs",
-              "ToolTip": "OPMUtils/OPMRepositoryMemoryFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "OverriddenGroupName": "OPMUtils",
-              "OverriddenToolTip": "OPMUtils/OPMRepositoryMemoryFactory.cs",
-              "WhenOpened": "2025-11-05T11:19:04.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "GoldOrder.cs",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Orders\\GoldOrder.cs",
-              "RelativeDocumentMoniker": "OPMBL\\Model\\Orders\\GoldOrder.cs",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Orders\\GoldOrder.cs",
-              "RelativeToolTip": "OPMBL\\Model\\Orders\\GoldOrder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T07:43:22.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Dinner.cs",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Services\\Dinner.cs",
-              "RelativeDocumentMoniker": "OPMBL\\Model\\Services\\Dinner.cs",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Services\\Dinner.cs",
-              "RelativeToolTip": "OPMBL\\Model\\Services\\Dinner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T10:05:39.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ExpressDelivery.cs",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Deliveries\\ExpressDelivery.cs",
-              "RelativeDocumentMoniker": "OPMBL\\Model\\Deliveries\\ExpressDelivery.cs",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Deliveries\\ExpressDelivery.cs",
-              "RelativeToolTip": "OPMBL\\Model\\Deliveries\\ExpressDelivery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T10:07:17.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "StandardDelivery.cs",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Deliveries\\StandardDelivery.cs",
-              "RelativeDocumentMoniker": "OPMBL\\Model\\Deliveries\\StandardDelivery.cs",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Deliveries\\StandardDelivery.cs",
-              "RelativeToolTip": "OPMBL\\Model\\Deliveries\\StandardDelivery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T09:21:17.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IOPMRepositoryMemory.cs",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Interfaces\\IOPMRepositoryMemory.cs",
-              "RelativeDocumentMoniker": "OPMBL\\Interfaces\\IOPMRepositoryMemory.cs",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Interfaces\\IOPMRepositoryMemory.cs",
-              "RelativeToolTip": "OPMBL\\Interfaces\\IOPMRepositoryMemory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T11:25:38.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Event.cs",
-              "RelativeDocumentMoniker": "OPMBL\\Model\\Event.cs",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Event.cs",
-              "RelativeToolTip": "OPMBL\\Model\\Event.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "OverriddenGroupName": "OPMBL\\Model",
-              "WhenOpened": "2025-11-05T11:25:53.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "OPMDL",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMDL\\OPMDL.csproj",
-              "RelativeDocumentMoniker": "OPMDL\\OPMDL.csproj",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMDL\\OPMDL.csproj",
-              "RelativeToolTip": "OPMDL\\OPMDL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-12T07:52:56.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Adres.cs",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Adres.cs",
-              "RelativeDocumentMoniker": "OPMBL\\Model\\Adres.cs",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Adres.cs",
-              "RelativeToolTip": "OPMBL\\Model\\Adres.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T07:23:01.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMUI_WPF\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUI_WPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "OPMUI_WPF\\MainWindow.xaml",
               "ToolTip": "OPMUI_WPF/MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -422,11 +210,348 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOPMRepositoryMemory.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Interfaces\\IOPMRepositoryMemory.cs",
+              "RelativeDocumentMoniker": "OPMBL\\Interfaces\\IOPMRepositoryMemory.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Interfaces\\IOPMRepositoryMemory.cs",
+              "RelativeToolTip": "OPMBL\\Interfaces\\IOPMRepositoryMemory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:25:38.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUI_WPF\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "OPMUI_WPF\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUI_WPF\\LoginWindow.xaml",
+              "RelativeToolTip": "OPMUI_WPF\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-13T09:17:56.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MemberManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Managers\\MemberManager.cs",
+              "RelativeDocumentMoniker": "OPMBL\\Managers\\MemberManager.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Managers\\MemberManager.cs",
+              "RelativeToolTip": "OPMBL\\Managers\\MemberManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:32:32.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OPMRepositoryMemoryFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUtils\\OPMRepositoryMemoryFactory.cs",
+              "RelativeDocumentMoniker": "OPMUtils\\OPMRepositoryMemoryFactory.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUtils\\OPMRepositoryMemoryFactory.cs",
+              "RelativeToolTip": "OPMUtils\\OPMRepositoryMemoryFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "OPMUtils",
+              "WhenOpened": "2025-11-05T11:19:04.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventsManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Managers\\EventsManager.cs",
+              "RelativeDocumentMoniker": "OPMBL\\Managers\\EventsManager.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Managers\\EventsManager.cs",
+              "RelativeToolTip": "OPMBL\\Managers\\EventsManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:16:39.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUI_WPF\\App.xaml",
+              "RelativeDocumentMoniker": "OPMUI_WPF\\App.xaml",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUI_WPF\\App.xaml",
+              "RelativeToolTip": "OPMUI_WPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-13T09:19:41.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Event.cs",
+              "RelativeDocumentMoniker": "OPMBL\\Model\\Event.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Event.cs",
+              "RelativeToolTip": "OPMBL\\Model\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "OPMBL\\Model",
+              "WhenOpened": "2025-11-05T11:25:53.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "ViewState": "AgIAAKEBAAAAAAAAAIAwwLUBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:05:11.96Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUI_WPF\\EventWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OPMUI_WPF\\EventWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUI_WPF\\EventWindow.xaml.cs",
+              "RelativeToolTip": "OPMUI_WPF\\EventWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:14:35.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDeliveryType.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Interfaces\\IDeliveryType.cs",
+              "RelativeDocumentMoniker": "OPMBL\\Interfaces\\IDeliveryType.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Interfaces\\IDeliveryType.cs",
+              "RelativeToolTip": "OPMBL\\Interfaces\\IDeliveryType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T09:14:14.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExpressDelivery.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Deliveries\\ExpressDelivery.cs",
+              "RelativeDocumentMoniker": "OPMBL\\Model\\Deliveries\\ExpressDelivery.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Deliveries\\ExpressDelivery.cs",
+              "RelativeToolTip": "OPMBL\\Model\\Deliveries\\ExpressDelivery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:07:17.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StandardDelivery.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Deliveries\\StandardDelivery.cs",
+              "RelativeDocumentMoniker": "OPMBL\\Model\\Deliveries\\StandardDelivery.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Deliveries\\StandardDelivery.cs",
+              "RelativeToolTip": "OPMBL\\Model\\Deliveries\\StandardDelivery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T09:21:17.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BronzeOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Orders\\BronzeOrder.cs",
+              "RelativeDocumentMoniker": "OPMBL\\Model\\Orders\\BronzeOrder.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Orders\\BronzeOrder.cs",
+              "RelativeToolTip": "OPMBL\\Model\\Orders\\BronzeOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "OPMBL\\Model\\Orders",
+              "WhenOpened": "2025-11-12T07:43:32.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GoldOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Orders\\GoldOrder.cs",
+              "RelativeDocumentMoniker": "OPMBL\\Model\\Orders\\GoldOrder.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Orders\\GoldOrder.cs",
+              "RelativeToolTip": "OPMBL\\Model\\Orders\\GoldOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:43:22.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Orders\\Order.cs",
+              "RelativeDocumentMoniker": "OPMBL\\Model\\Orders\\Order.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Orders\\Order.cs",
+              "RelativeToolTip": "OPMBL\\Model\\Orders\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "OPMBL\\Model\\Orders",
+              "WhenOpened": "2025-11-12T08:38:44.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SilverOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Orders\\SilverOrder.cs",
+              "RelativeDocumentMoniker": "OPMBL\\Model\\Orders\\SilverOrder.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Orders\\SilverOrder.cs",
+              "RelativeToolTip": "OPMBL\\Model\\Orders\\SilverOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:43:28.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Dinner.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Services\\Dinner.cs",
+              "RelativeDocumentMoniker": "OPMBL\\Model\\Services\\Dinner.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Services\\Dinner.cs",
+              "RelativeToolTip": "OPMBL\\Model\\Services\\Dinner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:05:39.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NamePlate.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Services\\NamePlate.cs",
+              "RelativeDocumentMoniker": "OPMBL\\Model\\Services\\NamePlate.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Services\\NamePlate.cs",
+              "RelativeToolTip": "OPMBL\\Model\\Services\\NamePlate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T09:22:28.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 23,
+              "Title": "PickupService.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Services\\PickupService.cs",
+              "RelativeDocumentMoniker": "OPMBL\\Model\\Services\\PickupService.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Services\\PickupService.cs",
+              "RelativeToolTip": "OPMBL\\Model\\Services\\PickupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:06:05.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WelcomePacket.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Services\\WelcomePacket.cs",
+              "RelativeDocumentMoniker": "OPMBL\\Model\\Services\\WelcomePacket.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Services\\WelcomePacket.cs",
+              "RelativeToolTip": "OPMBL\\Model\\Services\\WelcomePacket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:31:49.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Adres.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Adres.cs",
+              "RelativeDocumentMoniker": "OPMBL\\Model\\Adres.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Adres.cs",
+              "RelativeToolTip": "OPMBL\\Model\\Adres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:23:01.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Member.cs",
+              "RelativeDocumentMoniker": "OPMBL\\Model\\Member.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Member.cs",
+              "RelativeToolTip": "OPMBL\\Model\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "OPMBL\\Model",
+              "WhenOpened": "2025-11-12T07:37:37.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Ticket.cs",
+              "RelativeDocumentMoniker": "OPMBL\\Model\\Ticket.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\Model\\Ticket.cs",
+              "RelativeToolTip": "OPMBL\\Model\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T09:29:39.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EventWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUI_WPF\\EventWindow.xaml",
+              "RelativeDocumentMoniker": "OPMUI_WPF\\EventWindow.xaml",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUI_WPF\\EventWindow.xaml",
+              "RelativeToolTip": "OPMUI_WPF\\EventWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-13T08:06:48.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UML.cd",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\UML.cd",
+              "RelativeDocumentMoniker": "OPMBL\\UML.cd",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\UML.cd",
+              "RelativeToolTip": "OPMBL\\UML.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-11-12T11:26:47.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OPMDL.csproj",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMDL\\OPMDL.csproj",
+              "RelativeDocumentMoniker": "OPMDL\\OPMDL.csproj",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMDL\\OPMDL.csproj",
+              "RelativeToolTip": "OPMDL\\OPMDL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-12T07:52:56.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMUI_Console\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUI_Console\\Program.cs",
               "RelativeDocumentMoniker": "OPMUI_Console\\Program.cs",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMUI_Console\\Program.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUI_Console\\Program.cs",
               "RelativeToolTip": "OPMUI_Console\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -434,29 +559,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "OPMBL.csproj",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\OPMBL.csproj",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\OPMBL.csproj",
               "RelativeDocumentMoniker": "OPMBL\\OPMBL.csproj",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMBL\\OPMBL.csproj",
+              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\OPMBL.csproj",
               "RelativeToolTip": "OPMBL\\OPMBL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-05T11:17:37.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMUI_WPF\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "OPMUI_WPF\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\SolutionOrderProcessingMembers\\OPMUI_WPF\\MainWindow.xaml.cs",
-              "RelativeToolTip": "OPMUI_WPF\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T11:17:30.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T11:17:37.372Z"
             }
           ]
         }

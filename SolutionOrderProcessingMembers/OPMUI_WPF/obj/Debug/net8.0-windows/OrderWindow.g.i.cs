@@ -109,7 +109,7 @@ namespace OPMUI_WPF {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/OPMUI_WPF;V1.0.0.0;component/orderwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/OPMUI_WPF;component/orderwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\OrderWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

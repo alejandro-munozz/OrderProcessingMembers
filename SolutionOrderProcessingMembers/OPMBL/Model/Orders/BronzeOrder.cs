@@ -16,14 +16,14 @@ namespace OPMBL.Model.Status
 
         private const int PRIJSVERHOGING = 100;
 
-        public BronzeOrder(Member member, Event event, List<Ticket> tickets, NamePlate namePlate)
-        {
-            _member = member;
-            _event = event;
-            _tickets = tickets;
-            _
-        }
-        
+        //public BronzeOrder(Member member, Event event, List<Ticket> tickets, NamePlate namePlate)
+        //{
+        //    _member = member;
+        //    _event = event;
+        //_tickets = tickets;
+        //_
+        //}
+
 
         public override double BerekenKost(double prijsTicket)
         {

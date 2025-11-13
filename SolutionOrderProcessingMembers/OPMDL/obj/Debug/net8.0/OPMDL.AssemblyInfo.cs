@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OPMDL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1956ece2d6539dbfd6dc3134f92734d551c8f5a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("OPMDL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OPMDL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

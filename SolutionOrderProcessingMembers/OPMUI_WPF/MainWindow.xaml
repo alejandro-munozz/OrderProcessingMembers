@@ -7,6 +7,24 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Events" Grid.Row="0"/>
+        <DataGrid Grid.Row="1" Name="EventsOverviewDataGrid">
+            <DataGrid.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Buy Ticket(s)" Click="BuyTicket_Click"/>
+                </ContextMenu>
+            </DataGrid.ContextMenu>
+        </DataGrid>
+        <TextBlock Text="Order" Grid.Row="2"/>
+        <DataGrid Grid.Row="3" Name="OrderOverviewDataGrid"/>
+        <Button Grid.Row="4" Content="Place Order"/>
 
     </Grid>
 </Window>

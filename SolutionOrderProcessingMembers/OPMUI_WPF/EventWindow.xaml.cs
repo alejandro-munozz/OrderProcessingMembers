@@ -1,4 +1,6 @@
-﻿using System.Text;
+﻿using OPMBL.Model;
+using System.Collections.ObjectModel;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -14,4 +16,10 @@ namespace OPMUI_WPF;
 /// <summary>
 /// Interaction logic for MainWindow.xaml
 /// </summary>
-public partial class MainWindow : Window
+public partial class EventWindow : Window
+{
+    public EventWindow()
+    {
+        InitializeComponent();
+    }
+}

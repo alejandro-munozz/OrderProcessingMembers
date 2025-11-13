@@ -10,7 +10,7 @@ namespace OPMBL.Model
     {
         private int id;
         private double price;
-        private IDeliveryType Delivery;
+        //private IDeliveryType Delivery;
 
         
 
