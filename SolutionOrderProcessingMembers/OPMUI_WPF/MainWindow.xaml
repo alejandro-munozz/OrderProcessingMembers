@@ -23,8 +23,7 @@
             </DataGrid.ContextMenu>
         </DataGrid>
         <TextBlock Text="Order" Grid.Row="2"/>
-        <DataGrid Grid.Row="3" Name="OrderOverviewDataGrid"/>
+        <DataGrid Grid.Row="3" Name="OrderOverviewDataGrid"></DataGrid>
         <Button Grid.Row="4" Content="Place Order"/>
-
     </Grid>
 </Window>

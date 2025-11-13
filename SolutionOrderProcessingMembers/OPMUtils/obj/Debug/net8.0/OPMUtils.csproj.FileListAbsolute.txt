@@ -16,3 +16,21 @@ C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMe
 C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUtils\obj\Debug\net8.0\refint\OPMUtils.dll
 C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUtils\obj\Debug\net8.0\OPMUtils.pdb
 C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUtils\obj\Debug\net8.0\ref\OPMUtils.dll
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUtils\bin\Debug\net8.0\OPMUtils.deps.json
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUtils\bin\Debug\net8.0\OPMUtils.dll
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUtils\bin\Debug\net8.0\OPMUtils.pdb
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUtils\bin\Debug\net8.0\OPMBL.dll
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUtils\bin\Debug\net8.0\OPMDL.dll
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUtils\bin\Debug\net8.0\OPMBL.pdb
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUtils\bin\Debug\net8.0\OPMDL.pdb
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUtils\obj\Debug\net8.0\OPMUtils.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUtils\obj\Debug\net8.0\OPMUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUtils\obj\Debug\net8.0\OPMUtils.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUtils\obj\Debug\net8.0\OPMUtils.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUtils\obj\Debug\net8.0\OPMUtils.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUtils\obj\Debug\net8.0\OPMUtils.sourcelink.json
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUtils\obj\Debug\net8.0\OPMUtils.csproj.CopyComplete
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUtils\obj\Debug\net8.0\OPMUtils.dll
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUtils\obj\Debug\net8.0\refint\OPMUtils.dll
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUtils\obj\Debug\net8.0\OPMUtils.pdb
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUtils\obj\Debug\net8.0\ref\OPMUtils.dll

@@ -33,3 +33,38 @@ C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMe
 C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\LoginWindow.baml
 C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\BuyTicketWindow.g.cs
 C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\BuyTicketWindow.baml
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\bin\Debug\net8.0-windows\OPMUI_WPF.exe
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\bin\Debug\net8.0-windows\OPMUI_WPF.deps.json
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\bin\Debug\net8.0-windows\OPMUI_WPF.runtimeconfig.json
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\bin\Debug\net8.0-windows\OPMUI_WPF.dll
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\bin\Debug\net8.0-windows\OPMUI_WPF.pdb
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\bin\Debug\net8.0-windows\OPMBL.dll
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\bin\Debug\net8.0-windows\OPMDL.dll
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\bin\Debug\net8.0-windows\OPMUtils.dll
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\bin\Debug\net8.0-windows\OPMBL.pdb
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\bin\Debug\net8.0-windows\OPMUtils.pdb
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\bin\Debug\net8.0-windows\OPMDL.pdb
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\OPMUI_WPF.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\BuyTicketWindow.g.cs
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\EventWindow.g.cs
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\OPMUI_WPF_MarkupCompile.cache
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\OPMUI_WPF_MarkupCompile.lref
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\BuyTicketWindow.baml
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\EventWindow.baml
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\OPMUI_WPF.g.resources
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\OPMUI_WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\OPMUI_WPF.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\OPMUI_WPF.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\OPMUI_WPF.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\OPMUI_WPF.sourcelink.json
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\OPMUI_WPF.csproj.CopyComplete
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\OPMUI_WPF.dll
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\refint\OPMUI_WPF.dll
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\OPMUI_WPF.pdb
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\OPMUI_WPF.genruntimeconfig.cache
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\ref\OPMUI_WPF.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OPMUI_Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1956ece2d6539dbfd6dc3134f92734d551c8f5a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ce399cf00e39a1c0818f87db22da0ff9c98fa0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("OPMUI_Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OPMUI_Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

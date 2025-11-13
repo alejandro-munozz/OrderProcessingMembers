@@ -15,10 +15,8 @@ namespace OPMBL.Model
             Gemeente = gemeente;
         }
 
-        string Straat {  get; set; }
-
-        string Postcode { get; set; }
-
-        string Gemeente { get; set; } 
+        public string Straat { get; set; }
+        public string Postcode { get; set; }
+        public string Gemeente { get; set; }
     }
 }

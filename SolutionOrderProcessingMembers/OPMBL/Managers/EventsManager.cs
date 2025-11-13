@@ -21,5 +21,10 @@ namespace OPMBL.Managers
         {
             return repo.GetEvents();
         }
+        public Event GetEventById(int id)
+        {
+            return repo.GetEventById(id);
+        }
+
     }
 }

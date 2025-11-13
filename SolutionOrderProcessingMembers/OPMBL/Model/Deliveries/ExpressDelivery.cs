@@ -9,5 +9,9 @@ namespace OPMBL.Model.Deliveries
 {
     public class ExpressDelivery : IDeliveryType
     {
+        public string deliveryType()
+        {
+            return "ExpressDelivery";
+        }
     }
 }

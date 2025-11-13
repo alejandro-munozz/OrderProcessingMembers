@@ -25,5 +25,9 @@ namespace OPMBL.Managers
         {
             return repo.GetNameToMember();
         }
+        public Member GetMemberById(int id)
+        {
+            return repo.GetMemberById(id);
+        }
     }
 }

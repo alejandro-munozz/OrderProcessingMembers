@@ -1,5 +1,7 @@
 ﻿using OPMBL;
 using OPMBL.Managers;
+using OPMUI_WPF.Mapper;
+using OPMUI_WPF.ModelUI;
 using OPMUtils;
 using System;
 using System.Collections.Generic;
@@ -22,27 +24,33 @@ namespace OPMUI_WPF
     /// </summary>
     public partial class LoginWindow : Window
     {
-        private Dictionary<string, Member> emailToMember;
-        private Dictionary<string, Member> nameToMember;
+        private Dictionary<string, MemberUI> emailToMember;
+        private Dictionary<string, MemberUI> nameToMember;
         private MemberManager memberManager;
-        public LoginWindow()
+       public LoginWindow()
         {
             InitializeComponent();
             memberManager = new(OPMRepositoryMemoryFactory.GetOPMRepositoryMemory());
-            emailToMember = memberManager.GetEmailToMember();
-            nameToMember = memberManager.GetNameToMember();
+            emailToMember = memberManager.GetEmailToMember().ToDictionary(kvp => kvp.Key, kvp => new MemberUI(kvp.Value));
+
+            nameToMember = memberManager.GetNameToMember().ToDictionary(kvp => kvp.Key, kvp => new MemberUI(kvp.Value));
+            /*emailToMember = memberManager.GetEmailToMember();
+            nameToMember = memberManager.GetNameToMember();*/
         }
 
         private void ButtonLogin_Click(object sender, RoutedEventArgs e)
         {
             try
             {
-                if (emailToMember[LoginEmailTextBox.Text] == nameToMember[LoginNameTextBox.Text])
+                if (emailToMember[LoginEmailTextBox.Text].Id == nameToMember[LoginNameTextBox.Text].Id)
                 {
-                    MainWindow mW = new(emailToMember[LoginEmailTextBox.Text]);
+                    var memberId = emailToMember[LoginEmailTextBox.Text].Id;
+                    var member = memberManager.GetMemberById(memberId);
+                    MainWindow mW = new MainWindow(MemberMapper.MapFromDomain(member));
                     mW.ShowDialog();
                 }            
-            } catch { }
+            } catch { 
+            }
             MessageBox.Show("Invalid Login Information", "Error", MessageBoxButton.OK);
         }
     }
