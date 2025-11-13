@@ -1,0 +1,19 @@
+﻿<Window x:Class="OPMUI_WPF.BuyTicketWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OPMUI_WPF"
+        mc:Ignorable="d"
+        Title="BuyTicketWindow" Height="150" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="How many tickets would you like to buy?" Grid.Row="0" Margin="5"/>
+        <TextBox Name="NumberOfTicketsTextBox" Grid.Row="1" Margin="5"/>
+        <Button Content="Purchase" Click="TicketsPurchase_Click" Grid.Row="2" Margin="5"/>
+    </Grid>
+</Window>

@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OPMUI_WPF/1.0.0": {
+        "dependencies": {
+          "OPMBL": "1.0.0",
+          "OPMUtils": "1.0.0"
+        },
+        "runtime": {
+          "OPMUI_WPF.dll": {}
+        }
+      },
+      "OPMBL/1.0.0": {
+        "runtime": {
+          "OPMBL.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "OPMDL/1.0.0": {
+        "dependencies": {
+          "OPMBL": "1.0.0"
+        },
+        "runtime": {
+          "OPMDL.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "OPMUtils/1.0.0": {
+        "dependencies": {
+          "OPMBL": "1.0.0",
+          "OPMDL": "1.0.0"
+        },
+        "runtime": {
+          "OPMUtils.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OPMUI_WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OPMBL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OPMDL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OPMUtils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,5 @@
+C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\obj\Debug\net8.0\OPMUI_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\obj\Debug\net8.0\OPMUI_Console.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\obj\Debug\net8.0\OPMUI_Console.AssemblyInfo.cs
+C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\obj\Debug\net8.0\OPMUI_Console.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\obj\Debug\net8.0\OPMUI_Console.sourcelink.json

@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMBL\obj\Debug\net8.0\OPMBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMBL\obj\Debug\net8.0\OPMBL.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMBL\obj\Debug\net8.0\OPMBL.AssemblyInfo.cs
+C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMBL\obj\Debug\net8.0\OPMBL.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMBL\obj\Debug\net8.0\OPMBL.sourcelink.json
+C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMBL\bin\Debug\net8.0\OPMBL.deps.json
+C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMBL\bin\Debug\net8.0\OPMBL.dll
+C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMBL\bin\Debug\net8.0\OPMBL.pdb
+C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMBL\obj\Debug\net8.0\OPMBL.dll
+C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMBL\obj\Debug\net8.0\refint\OPMBL.dll
+C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMBL\obj\Debug\net8.0\OPMBL.pdb
+C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMBL\obj\Debug\net8.0\ref\OPMBL.dll

@@ -1,0 +1,23 @@
+﻿<Window x:Class="OPMUI_WPF.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OPMUI_WPF"
+        mc:Ignorable="d"
+        Title="LoginWindow" Height="200" Width="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Name" Grid.Row="0" Margin="5"/>
+        <TextBox Grid.Row="1" Margin="10" Name="LoginNameTextBox"/>
+        <TextBlock Text="Email" Grid.Row="2" Margin="5"/>
+        <TextBox Grid.Row="3" Margin="10" Name="LoginEmailTextBox"/>
+        <Button Content="Login" Name="LoginButton" Grid.Row="4" Margin="5" Click="ButtonLogin_Click"/>
+    </Grid>
+</Window>
