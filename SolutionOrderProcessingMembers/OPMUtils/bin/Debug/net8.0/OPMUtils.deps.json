@@ -17,10 +17,7 @@
       },
       "OPMBL/1.0.0": {
         "runtime": {
-          "OPMBL.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "OPMBL.dll": {}
         }
       },
       "OPMDL/1.0.0": {
@@ -28,10 +25,7 @@
           "OPMBL": "1.0.0"
         },
         "runtime": {
-          "OPMDL.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "OPMDL.dll": {}
         }
       }
     }

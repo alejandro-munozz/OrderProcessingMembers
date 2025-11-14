@@ -12,10 +12,15 @@ namespace OPMBL.Model.Services
         public IDeliveryType delivery { get; }
         private string name;
 
-        public NamePlate(IDeliveryType delivery, string name)
+        public NamePlate( string name)
         {
             this.delivery = delivery;
             this.name = name;
+        }
+
+        public override string ToString()
+        {
+            return $"With name {name}";
         }
     }
 }

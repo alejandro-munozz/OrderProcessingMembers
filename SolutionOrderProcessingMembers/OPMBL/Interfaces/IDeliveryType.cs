@@ -8,6 +8,6 @@ namespace OPMBL.Interfaces
 {
     public interface IDeliveryType
     {
-        
+        string deliveryType();
     }
 }

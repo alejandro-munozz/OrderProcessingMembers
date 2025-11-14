@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\obj\Debug\net8.0-windows\
 OPMUI_WPF
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\App.xaml
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_WPF\App.xaml
 4-707530441
 
-9-1223231257
-2011950664119
+1755862030
+2011017062290
 BuyTicketWindow.xaml;EventWindow.xaml;LoginWindow.xaml;MainWindow.xaml;
 
 False

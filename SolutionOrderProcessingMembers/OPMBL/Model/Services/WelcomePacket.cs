@@ -12,10 +12,15 @@ namespace OPMBL.Model.Services
         public IDeliveryType delivery { get; }
         private string name;
 
-        public WelcomePacket (IDeliveryType delivery, string name)
+        public WelcomePacket ( string name)
         {
-            this.delivery = delivery;
+           
             this.name = name;
+        }
+
+        public override string ToString()
+        {
+            return name;
         }
     }
 }

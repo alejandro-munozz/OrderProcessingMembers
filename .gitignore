@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SolutionOrderProcessingMembers/.vs/ProjectEvaluation
+/SolutionOrderProcessingMembers/.vs/SolutionOrderProcessingMembers/FileContentIndex/21deb68a-ed97-4dad-bbc6-f5652d887114.vsidx
+/SolutionOrderProcessingMembers/.vs/SolutionOrderProcessingMembers/FileContentIndex
+/SolutionOrderProcessingMembers/OPMDL/obj/Debug/net8.0

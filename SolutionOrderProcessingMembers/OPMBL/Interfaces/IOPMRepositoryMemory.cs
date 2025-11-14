@@ -12,5 +12,8 @@ namespace OPMBL.Interfaces
         Dictionary<string, Member> GetEmailToMember();
         List<Event> GetEvents();
         Dictionary<string, Member> GetNameToMember();
+
+        Member GetMemberById(int id);
+        Event GetEventById(int id);
     }
 }

@@ -46,23 +46,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gebruiker\\.nuget\\packages\\": {},
+    "C:\\Users\\lukas\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUtils\\OPMUtils.csproj",
+      "projectUniqueName": "C:\\Users\\lukas\\OneDrive\\Documents\\Bachalor-programmeren\\Programmeren gevorderd 2025-2026\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUtils\\OPMUtils.csproj",
       "projectName": "OPMUtils",
-      "projectPath": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUtils\\OPMUtils.csproj",
-      "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUtils\\obj\\",
+      "projectPath": "C:\\Users\\lukas\\OneDrive\\Documents\\Bachalor-programmeren\\Programmeren gevorderd 2025-2026\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUtils\\OPMUtils.csproj",
+      "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lukas\\OneDrive\\Documents\\Bachalor-programmeren\\Programmeren gevorderd 2025-2026\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMUtils\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Gebruiker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -78,11 +78,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\OPMBL.csproj": {
-              "projectPath": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\OPMBL.csproj"
+            "C:\\Users\\lukas\\OneDrive\\Documents\\Bachalor-programmeren\\Programmeren gevorderd 2025-2026\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\OPMBL.csproj": {
+              "projectPath": "C:\\Users\\lukas\\OneDrive\\Documents\\Bachalor-programmeren\\Programmeren gevorderd 2025-2026\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMBL\\OPMBL.csproj"
             },
-            "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMDL\\OPMDL.csproj": {
-              "projectPath": "C:\\Users\\Gebruiker\\Documents\\GRAD_PGM\\pgm_gevorderd\\oefeningen\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMDL\\OPMDL.csproj"
+            "C:\\Users\\lukas\\OneDrive\\Documents\\Bachalor-programmeren\\Programmeren gevorderd 2025-2026\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMDL\\OPMDL.csproj": {
+              "projectPath": "C:\\Users\\lukas\\OneDrive\\Documents\\Bachalor-programmeren\\Programmeren gevorderd 2025-2026\\OrderProcessingMembers\\SolutionOrderProcessingMembers\\OPMDL\\OPMDL.csproj"
             }
           }
         }
@@ -91,13 +91,7 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -118,7 +112,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

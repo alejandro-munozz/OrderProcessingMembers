@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OPMBL.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,10 +10,13 @@ namespace OPMBL.Model
     public class Ticket
     {
         private int id;
-        private double price;
-        //private IDeliveryType Delivery;
-
         
+        public Ticket(int id)
+        {
+            Id = id;
+            
+        }
 
+        public int Id { get; set; }
     }
 }

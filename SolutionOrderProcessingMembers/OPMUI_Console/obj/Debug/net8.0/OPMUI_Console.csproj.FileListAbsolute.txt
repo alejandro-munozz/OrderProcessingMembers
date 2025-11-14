@@ -3,3 +3,22 @@ C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMe
 C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\obj\Debug\net8.0\OPMUI_Console.AssemblyInfo.cs
 C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\obj\Debug\net8.0\OPMUI_Console.csproj.CoreCompileInputs.cache
 C:\Users\Gebruiker\Documents\GRAD_PGM\pgm_gevorderd\oefeningen\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\obj\Debug\net8.0\OPMUI_Console.sourcelink.json
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\bin\Debug\net8.0\OPMUI_Console.exe
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\bin\Debug\net8.0\OPMUI_Console.deps.json
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\bin\Debug\net8.0\OPMUI_Console.runtimeconfig.json
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\bin\Debug\net8.0\OPMUI_Console.dll
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\bin\Debug\net8.0\OPMUI_Console.pdb
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\bin\Debug\net8.0\OPMBL.dll
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\bin\Debug\net8.0\OPMBL.pdb
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\obj\Debug\net8.0\OPMUI_Console.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\obj\Debug\net8.0\OPMUI_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\obj\Debug\net8.0\OPMUI_Console.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\obj\Debug\net8.0\OPMUI_Console.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\obj\Debug\net8.0\OPMUI_Console.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\obj\Debug\net8.0\OPMUI_Console.sourcelink.json
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\obj\Debug\net8.0\OPMUI_Console.csproj.CopyComplete
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\obj\Debug\net8.0\OPMUI_Console.dll
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\obj\Debug\net8.0\refint\OPMUI_Console.dll
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\obj\Debug\net8.0\OPMUI_Console.pdb
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\obj\Debug\net8.0\OPMUI_Console.genruntimeconfig.cache
+C:\Users\lukas\OneDrive\Documents\Bachalor-programmeren\Programmeren gevorderd 2025-2026\OrderProcessingMembers\SolutionOrderProcessingMembers\OPMUI_Console\obj\Debug\net8.0\ref\OPMUI_Console.dll
