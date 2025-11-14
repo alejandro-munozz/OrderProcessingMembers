@@ -67,5 +67,10 @@ namespace OPMUI_WPF.ModelUI
         }
 
         public event PropertyChangedEventHandler? PropertyChanged;
+
+        public override string ToString()
+        {
+            return $"{Straat}, {Postcode} {Gemeente}";
+        }
     }
 }

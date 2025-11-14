@@ -17,5 +17,10 @@ namespace OPMBL.Model.Services
             this.delivery = delivery;
             this.name = name;
         }
+
+        public override string ToString()
+        {
+            return $"With name {name}";
+        }
     }
 }

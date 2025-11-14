@@ -1,12 +1,13 @@
-﻿using OPMBL.Model.Order;
+﻿using OPMBL;
 using OPMBL.Model;
+using OPMBL.Model.Order;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using OPMBL;
 
 namespace OPMUI_WPF.ModelUI
 {
@@ -86,5 +87,10 @@ namespace OPMUI_WPF.ModelUI
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
         public event PropertyChangedEventHandler? PropertyChanged;
+
+        public override string ToString()
+        {
+            return $"{Name}, ID: {Id}, Status: {Status}";
+        }
     }
 }

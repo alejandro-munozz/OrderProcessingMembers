@@ -20,7 +20,7 @@ namespace OPMBL.Model.Status
         {
             WelcomePacket = new WelcomePacket("SilverkomPakket");
             NamePlate = new NamePlate(member.Name);
-            Dinner = new Dinner("kaas");
+            Dinner = new Dinner(member.Name);
             DeliveryType = new ExpressDelivery();
         }
 
