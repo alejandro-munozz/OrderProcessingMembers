@@ -1,9 +1,10 @@
-﻿using System;
+﻿using OPMBL.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using OPMBL.Interfaces;
+using System.Xml.Linq;
 
 namespace OPMBL.Model.Services
 {
@@ -18,6 +19,11 @@ namespace OPMBL.Model.Services
             this.adresMember = adresMember;
             this.nameMember = nameMember;
             this.adresEvent = adresEvent;
+        }
+
+        public override string ToString()
+        {
+            return $"From {adresMember.Straat} to {adresEvent.Straat}";
         }
     }
 }

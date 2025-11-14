@@ -103,5 +103,10 @@ namespace OPMUI_WPF.ModelUI
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
         public event PropertyChangedEventHandler? PropertyChanged;
+
+        public override string ToString()
+        {
+            return Name;
+        }
     }
 }

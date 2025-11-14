@@ -17,5 +17,10 @@ namespace OPMBL.Model.Services
            
             this.name = name;
         }
+
+        public override string ToString()
+        {
+            return name;
+        }
     }
 }
